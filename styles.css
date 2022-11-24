@@ -8,14 +8,35 @@ html { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: 
 
 .sr-only:not(:focus):not(:active) { position: absolute; width: 1px; height: 1px; margin: -1px; border: 0; padding: 0; white-space: nowrap; clip-path: inset(100%); clip: rect(0 0 0 0); overflow: hidden;}
 
+body {
+    font-size: 62.5%;
+}
+
 header {
     background-color: darkmagenta;
     color: white;
     min-height: 30vh;
+    text-align: center;
 }
+
 
 h1 {
     margin: 0;
+    font-size: 6em;
+}
+
+section {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkmagenta;
+            text-align: center;
 }
 
 
+h2 {
+
+    font-size: 4em;
+}
+
+p {
+    font-size: 3em;
+}
