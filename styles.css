@@ -26,14 +26,12 @@ h1 {
 }
 
 section {
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: darkmagenta;
-            text-align: center;
+    text-align: center;
 }
 
-
 h2 {
-
     font-size: 4em;
 }
 
