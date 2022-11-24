@@ -38,3 +38,12 @@ h2 {
 p {
     font-size: 3em;
 }
+
+footer {
+    background-color: lightpink;
+}
+
+h3 {
+    text-align: center;
+    font-size: 2rem;
+}
